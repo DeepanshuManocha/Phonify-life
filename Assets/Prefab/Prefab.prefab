@@ -5648,6 +5648,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2035137251846942942}
   - component: {fileID: 3688185369324767961}
+  - component: {fileID: 1528074968}
   m_Layer: 0
   m_Name: Prefab
   m_TagString: Player
@@ -5687,6 +5688,29 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   objectToRotate: {fileID: 6172507406550532878}
   slider: {fileID: 1232479526592567036}
+--- !u!114 &1528074968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6172507406550532878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c73c1ab94e28d244827af556dca1ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Use:
+    Filter: 0
+    IgnoreStartedOverGui: 1
+    RequiredFingerCount: 0
+    RequiredMouseButtons: 0
+    RequiredSelectable: {fileID: 0}
+  Camera: {fileID: 0}
+  Relative: 0
+  Sensitivity: 1
+  Damping: -1
+  remainingScale: {x: 0, y: 0, z: 0}
 --- !u!1 &6297736695794918317
 GameObject:
   m_ObjectHideFlags: 0
@@ -6896,7 +6920,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 7444341026067949038}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.04142135
+  m_Size: 0.041421354
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
