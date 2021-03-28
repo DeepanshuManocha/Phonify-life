@@ -4,7 +4,7 @@ folder, copy and install the Phonify Life.apk file into you android device which
 The device list which supports Google AR-Core is [here](https://developers.google.com/ar/discover/supported-devices#google_play_devices).
 
 
-##How to open the project
+## How to open the project
 # Install Unity Hub
 You can install the latest Unity Hub from [here](https://unity3d.com/get-unity/download).
 
