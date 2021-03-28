@@ -14,11 +14,11 @@ After setting up Unity hub, go to Installs section where you need to download th
 ## Add existing project in Unity Hub
 After installing unity version, clone the project and click on ADD button in the project section and select the cloned project.
 
-##Shift to Android
+## Shift to Android
 Go to Files -> Build Settings, click on Android on the left menu and find and click "Switch Platform" button.
 
-##Build the application
+## Build the application
 Go to Files -> Build Settings, first add Start Screen and then Ar Scene (if not allready added) by draging the them from [scene](https://github.com/DeepanshuManocha/Phonify-life/tree/master/Assets/Scene) in the top empty space and click on Build button.
 
-##Tutorial
+## Tutorial
 If you feel and difficulty with the above instruction or want to see a turtorial please go throug this [Tutorial](https://www.youtube.com/watch?v=xID0FEEqnYk&ab_channel=varunsmashingtech). It's short and easy to follow.
