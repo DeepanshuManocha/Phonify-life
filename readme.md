@@ -1,12 +1,12 @@
 ## How to run the application
-GO to [Build](https://github.com/DeepanshuManocha/Phonify-life/tree/master/Build).
+GO to [Build](https://github.com/DeepanshuManocha/Phonify-life/tree/master/Build)
 folder, copy and install the Phonify Life.apk file into you android device which supports Google AR-Core. 
 The device list which supports Google AR-Core is [here](https://developers.google.com/ar/discover/supported-devices#google_play_devices).
 
 
 ##How to open the project
 # Install Unity Hub
-[Unity Hub](https://unity3d.com/get-unity/download)
+You can install the latest Unity Hub from [here](https://unity3d.com/get-unity/download).
 
 # Install the LTS version (recommended: Unity 2019.4.14f1)
 After setting up Unity hub, go to Installs section where you need to download the unity version including Android Dependeces.
